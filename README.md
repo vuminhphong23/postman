@@ -14,4 +14,7 @@
   
   • Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền. Giao diện overview image
 
+# 2. Kiểm thử API cơ bản
+  • GET: https://github.com/vuminhphong23/postman/issues/1#issue-2320116975
 
+# 3. THỰC HÀNH GET của 1 API thời tiết image
