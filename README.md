@@ -15,6 +15,13 @@
   • Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền. Giao diện overview image
 
 # 2. Kiểm thử API cơ bản
-  • GET: https://github.com/vuminhphong23/postman/issues/1#issue-2320116975
+  • GET: 
+  ![image](https://github.com/vuminhphong23/postman/assets/124127169/55596381-bf0e-4863-a3b3-16fa416d6f66)
+  • POST: 
+  ![image](https://github.com/vuminhphong23/postman/assets/124127169/ac17c193-f7d9-4d9a-ac54-7ed2cb42a6de)
+  • DELETE:
+  ![image](https://github.com/vuminhphong23/postman/assets/124127169/94f8a482-977a-477c-9bd6-773f25e3fea2)
+  • TEST:
+  ![image](https://github.com/vuminhphong23/postman/assets/124127169/1c3bfd5e-6e4f-48f4-a46c-4c8c9a2179c2)
 
 # 3. THỰC HÀNH GET của 1 API thời tiết image
